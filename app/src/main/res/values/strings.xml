@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">machine-home-work-1</string>
+    <string name="edit_title">Title</string>
+    <string name="edit_content">Content</string>
+    <string name="button_send">Send</string>
+    <string name="button_clear">Clear</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="action_setting">Settings</string>
+    <string name="title_activity_my">MyActivity</string>
+</resources>
